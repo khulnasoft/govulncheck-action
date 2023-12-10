@@ -6,7 +6,7 @@ Using [govulncheck](https://go.dev/blog/vuln)
 ## Usage
 
 ```yaml
-name: govulncheck 
+name: govulncheck
 on: [push]
 jobs:
   test:
@@ -15,5 +15,5 @@ jobs:
       contents: read
     steps:
     - uses: actions/checkout@v3
-    - uses: khulnasoft/go-vulncheck-action@v1
+    - uses: khulnasoft/govulncheck-action@v1
 ```
