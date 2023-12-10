@@ -1,4 +1,4 @@
-name: 'govulncheck'
+name: 'github-govulncheck-action'
 author: 'KhulnaSoft DevSec'
 branding:
   icon: 'check'
