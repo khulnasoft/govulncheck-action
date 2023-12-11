@@ -1,5 +1,5 @@
 # Easily using govulncheck in GitHub Actions
-[![Release](https://github.com/khulnasoft/go-vulncheck-action/workflows/Release/badge.svg)](https://github.com/khulnasoft/go-vulncheck-action/actions/workflows/release.yml)
+[![Release](https://github.com/khulnasoft/govulncheck-action/workflows/Release/badge.svg)](https://github.com/khulnasoft/govulncheck-action/actions/workflows/release.yml)
 
 Using [govulncheck](https://go.dev/blog/vuln)
 
